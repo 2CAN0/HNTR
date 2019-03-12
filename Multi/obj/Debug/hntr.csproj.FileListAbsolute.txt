@@ -15,3 +15,4 @@ C:\Users\2CAN0-2\source\repos\Multi\Multi\obj\Debug\hntr.csproj.CoreCompileInput
 C:\Users\2CAN0-2\source\repos\Multi\Multi\obj\Debug\hntr.csproj.CopyComplete
 C:\Users\2CAN0-2\source\repos\Multi\Multi\obj\Debug\Multi.exe
 C:\Users\2CAN0-2\source\repos\Multi\Multi\obj\Debug\Multi.pdb
+C:\Users\2CAN0-2\source\repos\Multi\Multi\obj\Debug\hntr.csprojAssemblyReference.cache

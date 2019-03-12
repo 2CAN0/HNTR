@@ -41,7 +41,7 @@ namespace Multi
 
         private void Set_Data()
         {
-           
+
         }
 
         private void Set_Font(Control control, FontFamily font, int size, FontStyle style)
@@ -55,5 +55,25 @@ namespace Multi
         }
 
         #endregion
+
+        private void lollipopButton1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void textBoxPass_Click(object sender, EventArgs e)
+        {
+            if (textBoxPass.Text == ("Password"))
+            {
+                textBoxPass.Text = "";
+                textBoxPass.UseSystemPasswordChar = true;
+            }
+        }
+
+        private void textBoxUser_Click(object sender, EventArgs e)
+        {
+            if (textBoxUser.Text == "Username")
+                textBoxUser.Text = "";
+        }
     }
 }
